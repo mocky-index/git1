@@ -6,3 +6,4 @@ function create_parent(){
 }
 boss is sb;
 boss id 2b;
+function aa(){}
