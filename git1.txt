@@ -5,3 +5,4 @@ function create_parent(){
 	var arr=[];
 }
 boss is sb;
+boss id 2b;
