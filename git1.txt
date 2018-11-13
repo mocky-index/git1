@@ -4,3 +4,4 @@ function(){}
 function create_parent(){
 	var arr=[];
 }
+boss is sb;
